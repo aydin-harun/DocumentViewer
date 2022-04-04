@@ -9,5 +9,3 @@ ReactDOM.render(
 
 
 // harun chekcin deneme
-
-// deneme
